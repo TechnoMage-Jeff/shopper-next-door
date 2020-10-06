@@ -1,0 +1,7 @@
+﻿
+User secrets
+https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-3.1&tabs=windows
+https://docs.microsoft.com/en-us/aspnet/core/security/key-vault-configuration?view=aspnetcore-3.1
+https://wakeupandcode.com/your-web-app-secrets-in-asp-net-core/
+
+
